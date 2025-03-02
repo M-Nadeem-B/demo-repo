@@ -1,0 +1,2 @@
+Here is the empty file just to see if git recognize it or not
+ssh-keygen -t "type of emcription" rsa -b "strength" 4096 -C "email@adress"
